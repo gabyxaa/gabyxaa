@@ -3,7 +3,7 @@
  <div>
    <a href="https://github.com/gabyxaa">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabyxaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabyxaa&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabyxaa&layout=compact&langs_count=6&theme=highcontrast"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -26,3 +26,4 @@
   ![Animação de cobra](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
